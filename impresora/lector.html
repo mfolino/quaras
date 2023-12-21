@@ -1,0 +1,54 @@
+Soy el lector
+
+<script>
+    var linkQR = ""
+    var molinete
+    var QR
+    window.addEventListener('keydown', function(e){
+
+        console.log(e.key);
+
+        if(( e.which == 9 ) || ( e.key == 'Enter')) { // Tengo la URL completa
+            e.preventDefault();
+            console.log("Aca!");
+            console.log(linkQR);
+
+            if(linkQR.search('ShiftQ{') != -1){
+                molinete = 1;
+                QR = linkQR.split("ShiftQ{")[1] // Busco el id del grupo
+            }else{
+                molinete = 2;
+                QR = linkQR.split("Shift{")[1] // Busco el id del grupo
+            }
+
+            console.log("Molinete: "+molinete);
+
+            
+            
+            fetch('validar.php', {
+                method: 'POST',
+                body: QR
+            }).then(function(response){
+
+                console.log(response);
+
+                if(response.status == 200){
+                    fetch('arduino.php?id='+molinete+'&op=ON');
+
+                    setTimeout(function(){
+                        fetch('arduino.php?id='+molinete+'&op=OFF');
+                    },100);
+                }
+            })
+
+            linkQR = ""
+            
+        }else {
+            linkQR += e.key;
+        }
+
+    });
+
+
+    
+</script>

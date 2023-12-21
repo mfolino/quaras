@@ -1,0 +1,506 @@
+[
+    {
+        "idConfig": "1",
+        "clave": "colorPrimario",
+        "valor": "000000",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "2",
+        "clave": "colorSecundario",
+        "valor": "5b5b5b",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "3",
+        "clave": "isologo",
+        "valor": "logo.png",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "4",
+        "clave": "logo",
+        "valor": "logo.png",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "5",
+        "clave": "nombreCliente",
+        "valor": "Rebel Gym",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "6",
+        "clave": "nombrePacientes",
+        "valor": "clientes",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "7",
+        "clave": "nombreProfesionales",
+        "valor": "profesionales",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "8",
+        "clave": "nombreObrasSociales",
+        "valor": "actividades",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "9",
+        "clave": "estadoPendiente",
+        "valor": "Pendiente",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "10",
+        "clave": "estadoCancelado",
+        "valor": "Cancelado",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "11",
+        "clave": "estadoConfirmado",
+        "valor": "Confirmado",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "12",
+        "clave": "estadoAusente",
+        "valor": "Ausente",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "13",
+        "clave": "colorPrimarioHover",
+        "valor": "427d9b",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "14",
+        "clave": "nombrePaciente",
+        "valor": "cliente",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "15",
+        "clave": "nombreProfesional",
+        "valor": "profesional",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "16",
+        "clave": "nombreObraSocial",
+        "valor": "actividad",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "17",
+        "clave": "nombreTurno",
+        "valor": "turno",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "18",
+        "clave": "nombreTurnos",
+        "valor": "turnos",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "19",
+        "clave": "favicon",
+        "valor": "favicon.png",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "20",
+        "clave": "clientDomain",
+        "valor": "rebelgym.turnos.app",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "21",
+        "clave": "hsAntesCancelacion",
+        "valor": "1",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "22",
+        "clave": "horasAnticipacion",
+        "valor": "72",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "23",
+        "clave": "prefijoTelefonico",
+        "valor": "54",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "24",
+        "clave": "leyendaTelefono",
+        "valor": "Sin 0 ni 15. Ingrese sólo números.",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "25",
+        "clave": "leyendaMail",
+        "valor": "Agradeceremos tu puntualidad para poder atenderte adecuadamente.",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "26",
+        "clave": "mailFirmaProfesional",
+        "valor": "0",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "27",
+        "clave": "mailTextoArriba",
+        "valor": "Hola %nombre%, este es un recordatorio automático del turno solicitado ",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "28",
+        "clave": "nombreDNI",
+        "valor": "DNI",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "29",
+        "clave": "largoDNI",
+        "valor": "8",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "30",
+        "clave": "codAreaDefault",
+        "valor": "223",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "31",
+        "clave": "mailTextoArribaConfirmacion",
+        "valor": "Hola %nombre%, te confirmamos el turno solicitado",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "32",
+        "clave": "telLargoMin",
+        "valor": "5",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "33",
+        "clave": "telLargoMax",
+        "valor": "8",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "34",
+        "clave": "leyendaTomaTurno",
+        "valor": "Seleccioná la actividad a la que querés anotarte.",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "35",
+        "clave": "plan",
+        "valor": "4",
+        "estado": "1",
+        "comentarios": "1 = inicial, 2 = avanzado, 3 = premium, 4 = corp, 5 = corp con agendas en cantidadAgendas"
+    },
+    {
+        "idConfig": "36",
+        "clave": "leyendaWapp",
+        "valor": "Agradeceremos tu puntualidad para poder atenderte como te lo mereces.",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "37",
+        "clave": "logoWidth",
+        "valor": "400",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "38",
+        "clave": "logoAdminWidth",
+        "valor": "40",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "39",
+        "clave": "minBloqueTurnos",
+        "valor": "15",
+        "estado": "1",
+        "comentarios": "Duración en minutos del bloque de turnos"
+    },
+    {
+        "idConfig": "40",
+        "clave": "duracionBloque",
+        "valor": "tratamiento",
+        "estado": "1",
+        "comentarios": "Si la duración del bloque se basa en el tratamiento o en la variable minBloqueTurnos"
+    },
+    {
+        "idConfig": "41",
+        "clave": "estadoPago",
+        "valor": "1",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "42",
+        "clave": "timezone",
+        "valor": "America/Argentina/Buenos_Aires",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "43",
+        "clave": "smartlookId",
+        "valor": "",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "44",
+        "clave": "smartlookRegion",
+        "valor": "",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "45",
+        "clave": "nivelCategorias",
+        "valor": "1",
+        "estado": "1",
+        "comentarios": "1 = Nivel categorías sobre tratamientos, 0 = no"
+    },
+    {
+        "idConfig": "46",
+        "clave": "tomaTurno",
+        "valor": "telefono",
+        "estado": "1",
+        "comentarios": "Valida en toma de turnos por dni, telefono o email"
+    },
+    {
+        "idConfig": "47",
+        "clave": "leyendaDni",
+        "valor": "Sin puntos ni guiones. Sólo números.",
+        "estado": "1",
+        "comentarios": "Helper de campo dni"
+    },
+    {
+        "idConfig": "48",
+        "clave": "nombreMail",
+        "valor": "Correo electrónico",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "49",
+        "clave": "nombreTelefono",
+        "valor": "Teléfono celular",
+        "estado": "1",
+        "comentarios": ""
+    },
+    {
+        "idConfig": "50",
+        "clave": "logoFooter",
+        "valor": "black",
+        "estado": "1",
+        "comentarios": "Color del pie de Cuatro Lados. Puede ser black o white"
+    },
+    {
+        "idConfig": "51",
+        "clave": "wappPlugin",
+        "valor": "0",
+        "estado": "1",
+        "comentarios": "Activa recordatorios por Whatsapp por más de que no apliquen al plan. Por default 0 !"
+    },
+    {
+        "idConfig": "52",
+        "clave": "wappDays",
+        "valor": "1",
+        "estado": "1",
+        "comentarios": "Días de anticipación con los que debe aparecer los recordatorios de Whatsapp"
+    },
+    {
+        "idConfig": "53",
+        "clave": "diasOcultos",
+        "valor": "0",
+        "estado": "1",
+        "comentarios": "Oculta días del calendario. 0 es domingo."
+    },
+    {
+        "idConfig": "54",
+        "clave": "codigoAnalytics",
+        "valor": "",
+        "estado": "1",
+        "comentarios": "Código de Google Analytics"
+    },
+    {
+        "idConfig": "57",
+        "clave": "codigoHead",
+        "valor": "",
+        "estado": "1",
+        "comentarios": "Permite cargar código dentro del head."
+    },
+    {
+        "idConfig": "58",
+        "clave": "codigoBody",
+        "valor": "",
+        "estado": "1",
+        "comentarios": "Permite cargar HTML justo antes del include de scripts."
+    },
+    {
+        "idConfig": "59",
+        "clave": "mostrarPrecio",
+        "valor": "1",
+        "estado": "1",
+        "comentarios": "Indica si mostrar precio del tratamiento en el selector público de tratamientos o no."
+    },
+    {
+        "idConfig": "60",
+        "clave": "turnosPasado",
+        "valor": "0",
+        "estado": "1",
+        "comentarios": "Permite tomar turnos en el pasado"
+    },
+    {
+        "idConfig": "61",
+        "clave": "cantidadAgendas",
+        "valor": "0",
+        "estado": "1",
+        "comentarios": "Cantidad de agendas permitidas en caso de que el plan sea 5"
+    },
+    {
+        "idConfig": "62",
+        "clave": "notificacionesMail",
+        "valor": "1",
+        "estado": "1",
+        "comentarios": "Prende las notificaciones por mail"
+    },
+    {
+        "idConfig": "63",
+        "clave": "notificacionesSMS",
+        "valor": "0",
+        "estado": "1",
+        "comentarios": "Prender las notificaciones por SMS. Depende de que el cliente contrate un plan acorde."
+    },
+    {
+        "idConfig": "64",
+        "clave": "notificacionesWhatsapp",
+        "valor": "0",
+        "estado": "1",
+        "comentarios": "Prende las notificaciones por Whatsapp automático. Depende de que el cliente contrate un plan acorde."
+    },
+    {
+        "idConfig": "65",
+        "clave": "smsApiUser",
+        "valor": "CUATROLADOS",
+        "estado": "1",
+        "comentarios": "User de acceso api SMS. Licencia aparte."
+    },
+    {
+        "idConfig": "66",
+        "clave": "smsApiKey",
+        "valor": "42015LADOS!",
+        "estado": "1",
+        "comentarios": "Clave de acceso api SMS. Licencia aparte."
+    },
+    {
+        "idConfig": "67",
+        "clave": "turnosSimultaneos",
+        "valor": "1",
+        "estado": "1",
+        "comentarios": "Si es 0 o es 1 es lo mismo. Si es mayor a 1 se toma ese valor como los turnos simultaneos que pueden atender. Esto es general para todas las agendas."
+    },
+    {
+        "idConfig": "68",
+        "clave": "accesoProfesionales",
+        "valor": "0",
+        "estado": "1",
+        "comentarios": "Habilita la carga de datos de acceso para los profesionales."
+    },
+    {
+        "idConfig": "69",
+        "clave": "profesionalIndistinto",
+        "valor": "0",
+        "estado": "1",
+        "comentarios": "Muestro o no profesional indistinto"
+    },
+    {
+        "idConfig": "70",
+        "clave": "textosTratamientos",
+        "valor": "0",
+        "estado": "1",
+        "comentarios": "Permite o no la carga de textos asociados al tratamiento."
+    },
+    {
+        "idConfig": "71",
+        "clave": "mostrarTextoTratamientoPublic",
+        "valor": "0",
+        "estado": "1",
+        "comentarios": "Muestra el texto post al seleccionar el tratamiento en el public."
+    },
+    {
+        "idConfig": "72",
+        "clave": "textoConfirmacionPublic",
+        "valor": "",
+        "estado": "1",
+        "comentarios": "Texto que se muestra al confirmar un turno del lado público."
+    },
+    {
+        "idConfig": "73",
+        "clave": "cupos",
+        "valor": "1",
+        "estado": "1",
+        "comentarios": "Habilita cupos o normal?"
+    },
+    {
+        "idConfig": "74",
+        "clave": "soloRegistrados",
+        "valor": "1",
+        "estado": "1",
+        "comentarios": "Permite la toma de turnos solo para usuarios registrados. No permite usuarios nuevos."
+    }
+]
